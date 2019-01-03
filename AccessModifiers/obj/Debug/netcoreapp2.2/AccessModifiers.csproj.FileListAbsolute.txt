@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\bin\Debug\netcoreapp2.2\AccessModifiers.deps.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\bin\Debug\netcoreapp2.2\AccessModifiers.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\bin\Debug\netcoreapp2.2\AccessModifiers.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\bin\Debug\netcoreapp2.2\AccessModifiers.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\bin\Debug\netcoreapp2.2\AccessModifiers.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\AccessModifiers\obj\Debug\netcoreapp2.2\AccessModifiers.pdb

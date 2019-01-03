@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\bin\Debug\netcoreapp2.2\Gnerics.deps.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\bin\Debug\netcoreapp2.2\Gnerics.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\bin\Debug\netcoreapp2.2\Gnerics.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\bin\Debug\netcoreapp2.2\Gnerics.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\bin\Debug\netcoreapp2.2\Gnerics.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\obj\Debug\netcoreapp2.2\Gnerics.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\obj\Debug\netcoreapp2.2\Gnerics.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\obj\Debug\netcoreapp2.2\Gnerics.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\obj\Debug\netcoreapp2.2\Gnerics.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\obj\Debug\netcoreapp2.2\Gnerics.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Gnerics\obj\Debug\netcoreapp2.2\Gnerics.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\bin\Debug\netcoreapp2.2\indexer.deps.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\bin\Debug\netcoreapp2.2\indexer.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\bin\Debug\netcoreapp2.2\indexer.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\bin\Debug\netcoreapp2.2\indexer.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\bin\Debug\netcoreapp2.2\indexer.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\obj\Debug\netcoreapp2.2\indexer.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\obj\Debug\netcoreapp2.2\indexer.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\obj\Debug\netcoreapp2.2\indexer.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\obj\Debug\netcoreapp2.2\indexer.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\obj\Debug\netcoreapp2.2\indexer.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\indexer\obj\Debug\netcoreapp2.2\indexer.csprojAssemblyReference.cache

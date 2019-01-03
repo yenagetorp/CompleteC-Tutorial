@@ -1,0 +1,10 @@
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Predicate\bin\Debug\netcoreapp2.2\Predicate.deps.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Predicate\bin\Debug\netcoreapp2.2\Predicate.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Predicate\bin\Debug\netcoreapp2.2\Predicate.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Predicate\bin\Debug\netcoreapp2.2\Predicate.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Predicate\bin\Debug\netcoreapp2.2\Predicate.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Predicate\obj\Debug\netcoreapp2.2\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Predicate\obj\Debug\netcoreapp2.2\Predicate.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Predicate\obj\Debug\netcoreapp2.2\Predicate.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Predicate\obj\Debug\netcoreapp2.2\Predicate.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\Predicate\obj\Debug\netcoreapp2.2\Predicate.pdb

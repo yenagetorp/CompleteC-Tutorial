@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\bin\Debug\netcoreapp2.2\ExceptionHandling.deps.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\bin\Debug\netcoreapp2.2\ExceptionHandling.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\bin\Debug\netcoreapp2.2\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\bin\Debug\netcoreapp2.2\ExceptionHandling.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\bin\Debug\netcoreapp2.2\ExceptionHandling.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\obj\Debug\netcoreapp2.2\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\obj\Debug\netcoreapp2.2\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\obj\Debug\netcoreapp2.2\ExceptionHandling.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\obj\Debug\netcoreapp2.2\ExceptionHandling.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\obj\Debug\netcoreapp2.2\ExceptionHandling.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExceptionHandling\obj\Debug\netcoreapp2.2\ExceptionHandling.csprojAssemblyReference.cache

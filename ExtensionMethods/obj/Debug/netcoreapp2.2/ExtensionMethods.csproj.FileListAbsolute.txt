@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\bin\Debug\netcoreapp2.2\ExtensionMethods.deps.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\bin\Debug\netcoreapp2.2\ExtensionMethods.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\bin\Debug\netcoreapp2.2\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\bin\Debug\netcoreapp2.2\ExtensionMethods.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\bin\Debug\netcoreapp2.2\ExtensionMethods.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\obj\Debug\netcoreapp2.2\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\obj\Debug\netcoreapp2.2\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\obj\Debug\netcoreapp2.2\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\obj\Debug\netcoreapp2.2\ExtensionMethods.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\obj\Debug\netcoreapp2.2\ExtensionMethods.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\ExtensionMethods\obj\Debug\netcoreapp2.2\ExtensionMethods.pdb

@@ -1,0 +1,11 @@
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\bin\Debug\netcoreapp2.2\BoxingUnboxing.deps.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\bin\Debug\netcoreapp2.2\BoxingUnboxing.runtimeconfig.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\bin\Debug\netcoreapp2.2\BoxingUnboxing.runtimeconfig.dev.json
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\bin\Debug\netcoreapp2.2\BoxingUnboxing.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\bin\Debug\netcoreapp2.2\BoxingUnboxing.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.AssemblyInfo.cs
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.dll
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.pdb
+C:\Users\Yen Agetorp\source\repos\C#\CompleteTutorial\BoxingUnboxing\obj\Debug\netcoreapp2.2\BoxingUnboxing.csprojAssemblyReference.cache
